@@ -6,3 +6,10 @@ Art is arranged through:
 * ...Then the song they were made for (or other miscellaneous stuff if clarified)
 
 Music TBA
+
+## credits:
+* Corthon 
+* lumberslumber 
+* GreenZ - 3darkdolar Lancer
+* facey/WhatsHisFace - Pixel Artist
+* webmstrosity - Pixel Artist
